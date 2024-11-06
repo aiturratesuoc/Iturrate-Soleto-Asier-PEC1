@@ -1,0 +1,22 @@
+---
+title: "metadata_mySE_new"
+author: "Asier Iturrate"
+date: "2024-11-06"
+output: html_document
+---
+
+## myName
+"Asier Iturrate"
+
+## myInstitution
+"UOC", 
+
+## myContact
+aiturrates@uoc.edu
+
+## myTitle
+SummarizedExperiment **filtrado** generado para la PEC1
+
+
+## Description
+Se trata de un nuevo set de datos eliminando algunas entradas del dataset original

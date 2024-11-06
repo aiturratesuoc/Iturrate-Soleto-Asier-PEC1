@@ -1,0 +1,21 @@
+---
+title: "metadata_mySe"
+author: "Asier Iturrate"
+date: "Noviembre 2024"
+output: html_document
+---
+
+## myName
+"Asier Iturrate"
+
+## myInstitution
+"UOC", 
+
+## myContact
+aiturrates@uoc.edu
+
+## myTitle
+SummarizedExperiment generado para la PEC1
+
+## Description
+Objeto original creado a partir del dataset human_cachexia
